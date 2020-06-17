@@ -1,125 +1,135 @@
-
-- name: Fernanda Espitia Torres
+- name: Mia Capozzoli
   bio:
   bio_img: 
-  scalar: artivism-in-chicago/index
+  scalar: final-project---monsters-/index
   image_teaser: artivism-cover.jpg
-  title: Pilsen
-  year: 2019
+  title: Killers
+  year: 2020
 
-- name: Aleina Dume
-  bio: Aleina began her first semester of undergraduate studies at Swarthmore College in Fall 2019. She is from Queens, New York and looks forward to being the first in her family to graduate from college. While at Swarthmore, Aleina hopes to take classes that explore her interests in literature written by people of color. She also hopes to engage with and produce scholarship about the intersection of media, representation, and education.
-  bio_img: bio-aleina.jpg
-  scalar: owners-of-feminist-latinx-art/index
-  image_teaser: aleina-cover.jpg
-  title: Feminist
-  year: 2019
-
-- name: Kat King
-  bio:
-  bio_img: 
-  scalar: anarchitecture/index
-  image_teaser: anarchitecture-cover.jpg
-  title: Anarchit
-  year: 2019
-
-- name: Reid Mansur
-  bio: Reid Mansur is a freshman from Southeast Arkansas. He is undecided on what to study but has an interest in the humanities and fine arts. Outside of academics, he enjoys music, literature, and theater. Mansur looks forward to a great next three and a half years at Swarthmore broadening his horizons and learning more about himself and the world around him.
-  bio_img: 
-  scalar: martine-gutierrezs-demons-and-the-trans-latinx-experience/index
-  image_teaser: demons-cover.jpg
-  title: Demons
-  year: 2019
-
-- name: Patricia Bautista
-  bio:
-  bio_img: 
-  scalar: blackness-in-latinidad-1/index
-  image_teaser: patricia-thumb.jpg
-  title: AfroLatinx
-  year: 2019
-
-- name: Annabella Boardman
-  bio:
-  bio_img: 
-  scalar: /natalia-anciso--fys/index
-  image_teaser: annabella-teaser.jpg
-  title: Artivism
-  year: 2019
-
-- name: Erin Chen
-  bio:
-  bio_img: erin-bio.JPG
-  scalar: latinx-representation-on-young-adult-book-covers/index
-  image_teaser: erin-cover.jpg
-  title: Covers
-  year: 2019
-
-- name: Omene Addeh 
-  bio: is a freshman at Swarthmore College. Possibly majoring in Political Science and Psychology. She is very interested in Peace and Conflict Studies. In the context of Latinx Studies, she is particularly intrigued in the representation of Afro-Latinas, specifically in the mainstream film industry. Her other likes include feminist theory, African literature, and dogs.
-  bio_img: omene.jpg
-  scalar: afro-latinas-in-the-mainstream-media-an-analysis-of-rosario-dawsons-career/index
-  image_teaser: rosario.jpg
-  title: AfroLatinas
-  year: 2017
-
-- name: Veronica Testi
-  bio: is a freshman at Swarthmore College. Possibly majoring in Peace and Conflict Studies or Sociology with a minor in Spanish. She was born in Asuncion, Paraguay and raised in Queens, New York. Living in the city and being exposed to Broadway plays has allowed her to truly appreciate theater, one of my many interests; and while she is still connected to her Paraguayan culture, she is much more interested in looking at the Latinx diaspora. Veronica enjoys watching cult movies and conspiracy theories. Ultimately, she strives to become an Immigration lawyer and be an advocate for others.
-  bio_img: veronica.jpg
-  scalar: latinx-family-representation-in-commercials/index
-  image_teaser: veronica-tile.jpg
-  title: Family
-  year: 2017
-
-- name: Dana Homer
-  bio:  is a freshman at Swarthmore College. She hopes to major in biology. Her other interests include education, Spanish, and community service. In the area of Latinx studies, She is especially interested in the representation of Latinx through platforms like Twitter and Facebook. Since these platforms allow users to reach out to thousands or even millions of people across the US and around the world, they are the perfect tool to increase representation; using social media, the average Latinx can increase representation without waiting for mainstream media like TV or movies to catch up.
-  bio_img: dana-homer.jpg
-  scalar: latina-twitter/index
-  image_teaser: latinidad.jpg
-  title: Twitter
-  year: 2017
-
-- name: Ainsley 'Tori' Knox
-  bio: is a freshman at Swarthmore College. She is originally from Wilmington Delaware. While at Swarthmore she hopes to major in biochemistry and possibly minor in music. In her Latinx Culture and Literature class she was particularly interested and researched the impact that mainstream tv shows and movies might have on Latinx children. When she is not in the Latinx class, she enjoy dancing, playing piano, singing, and making artwork.
-  bio_img: tory.jpg
-  scalar: latinx-representation-in-disney/index 
-  image_teaser: disney.jpeg
-  title: Disney
-  year: 2017 
-
-- name: Eudy Lopez
-  bio: is a freshman at Swarthmore College. Eudy intends to double major in Political Science and Sociology. In the context of Latinx studies, Eudy is particularly interested in the role of diaspora and generational differences as they contribute to the culture. Eudy's favorite things include binge-watching Netflix, playing pickup basketball, and listening to Lil Uzi while crushing brewskis.
-  bio_img:
-  scalar: latinx-athletes/index
-  image_teaser: legends.jpg
-  title: Legends
-  year: 2017
-
-- name: Austin Kim
+- name: Aditya Jayakrishnan
   bio: 
   bio_img:
-  scalar: latinx-project/index
-  image_teaser: portrayal.jpg
-  title: Portrayal
-  year: 2017
+  scalar: human-monsters-adi/index
+  image_teaser: aleina-cover.jpg
+  title: Monsters
+  year: 2020
 
-#- name: Kieran McKenna
-  #bio: is a freshman at Swarthmore College. Kieran is planning to study Spanish and Computer Science. Kieran grew up in South Bend, Indiana, where he attended Saint Joseph High School.  He still play lacrosse at Swarthmore, loves reading and writing, spending time on my family’s farm, going to concerts, and hiking. Kieran favorite books are The Power of One and Everything is Illuminated and his favorite artists are SZA, J. Cole, and NAV.
-  #bio_img:
-  #scalar: pathfinders/index
-  #image_teaser: trump.jpg
-  #title: Media
-
-- name: Diana Garcia
-  bio: is a freshman at Swarthmore College. Diana intends to double major in Peace & Conflict Studies and Educational Studies (or Sociology), with a minor in Latin American Studies. She grew up in New Oxford, Pennsylvania, and enjoys reading, watching movies, listening and playing music, sketching, and playing soccer. Her interest in literature and media has resulted in a more specific interest in Latinx literature and media, especially media in platforms of rising popularity such as YouTube, Twitter and Instagram.
+- name: Hunter Luber
+  bio:
   bio_img: 
-  scalar: latinidad-youtube/index
-  image_teaser: cholo.jpg
-  title: YouTube
+  scalar: span-058----digital-project/index
+  image_teaser: anarchitecture-cover.jpg
+  title: Sites
+  year: 2020
 
-#- name: Abby Yung
-  #bio: is a freshman at Swarthmore College. Abby's hometown is Rome, Georgia. Abby anticipates majoring in English and continuing to study Spanish and French. Being half-Bolivian, Abby is interested in Latinx studies, especially analyzing how Latinx people are portrayed in books and movies. She also enjoys journalism, creative writing, soccer, and traveling.
-  #bio_img: abby.jpg
-  #scalar: mirzoeff/index
-  #image_teaser: laberinto.jpg
-  #title: Digital 
+- name: Clayton Meyer
+  bio: 
+  bio_img: 
+  scalar: body-snatchers/index
+  image_teaser: demons-cover.jpg
+  title: Snatchers
+  year: 2020
+
+- name: Julia Ostrowski 
+  bio:
+  bio_img: 
+  scalar: human-monsters-project/index
+  image_teaser: patricia-thumb.jpg
+  title: Monsters
+  year: 2020
+
+- name: Sophia Peipher
+  bio:
+  bio_img: 
+  scalar: final-project-40/index
+  image_teaser: annabella-teaser.jpg
+  title: Monsters
+  year: 2020
+
+- name: Emma Regan
+  bio:
+  bio_img: erin-bio.JPG
+  scalar: the-monster-inside/index
+  image_teaser: erin-cover.jpg
+  title: Inside
+  year: 2020
+
+- name: Sarah Roberts
+  bio: 
+  bio_img:
+  scalar: monster-final-project-/index
+  image_teaser: rosario.jpg
+  title: Monsters
+  year: 2020
+
+- name: Lauren Savo
+  bio:
+  bio_img:
+  scalar: first-time/index
+  image_teaser: veronica-tile.jpg
+  title: First
+  year: 2020
+
+- name: Sofia Sears
+  bio:
+  bio_img:
+  scalar: monsters-archive/index
+  image_teaser: latinidad.jpg
+  title: Archive
+  year: 2020
+
+- name: Powell Sheagren
+  bio:
+  bio_img:
+  scalar: monstrosity-in-european-art/index 
+  image_teaser: disney.jpeg
+  title: European Art
+  year: 2020 
+
+- name: Samuel Sheppard
+  bio:
+  bio_img:
+  scalar: human-monsters-final/index
+  image_teaser: legends.jpg
+  title: Dragons
+  year: 2020
+
+- name: Lauryn Smith
+  bio: 
+  bio_img:
+  scalar: fearing-the-point-of-no-return/index
+  image_teaser: portrayal.jpg
+  title: return
+  year: 2020
+
+- name: Naja Smith
+  bio:
+  bio_img: 
+  scalar: human-monsters-visual-project/index
+  image_teaser: cholo.jpg
+  title: Predatory
+  year: 2020
+
+- name: Magda Werkmeister
+  bio: 
+  bio_img:
+  scalar: human-monsters-1/index
+  image_teaser: portrayal.jpg
+  title: Monsters
+  year: 2020
+
+- name: Karma Yang
+  bio: 
+  bio_img:
+  scalar: mexican-monstrosity/index
+  image_teaser: portrayal.jpg
+  title: Mexican
+  year: 2020
+
+- name: Ethan Zhao 
+  bio: 
+  bio_img:
+  scalar: the-zombie-races/index
+  image_teaser: portrayal.jpg
+  title: Zombie
+  year: 2020

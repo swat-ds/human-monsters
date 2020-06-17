@@ -6,46 +6,5 @@ image:
     banner: ../images/torres-el-pez.jpg
 ---
 
-![group photo of class](../images/class.jpg)
 
-*Introduction to Latinx Literature and Culture Seminar, 2017*
-
-
-<hr/>
-
-## Contributors
-
-*Fall 2019*
-
-<div class="bios">
-{% for member in site.data.members %}
-	{% if member.year == 2019 %}
-	{% include bioimg.html %}
-	<div class="col-wide"><div id="title">{{ member.name }}</div> - {{ member.bio }}</div>
-	{% endif %}
-{% endfor %}
-</div>
-
-<hr/>
-
-*Fall 2017*
-<div class="bios">
-{% for member in site.data.members %}
-	{% if member.year == 2017 %}
-	{% include bioimg.html %}
-	<div class="col-wide"><div id="title">{{ member.name }}</div> - {{ member.bio }}</div>
-	{% endif %}
-{% endfor %}
-</div>
-
-
-
-<div class="col-wide">
-	<p><strong>Desiree Diaz</strong>, Assistant Professor, Spanish Department</p>
-	<p><strong>Roberto Vargas</strong>, Research Librarian for Humanities and Interdisciplinary Studies</p>
-	<p><strong>Header Image</strong>: El Pez, by Joaquín Torres García - <a href="https://en.wikipedia.org/wiki/es:Museo_Torres_Garc%C3%ADa" class="extiw" title="w:es:Museo Torres García">Museo Torres García</a> (fotografías propias de cuadros expuestos), <a href="https://commons.wikimedia.org/w/index.php?curid=79731261">Public Domain</a></p>
-	<hr/>
-	<img src="../images/logo-mccabe-web.png" class="logo" alt="">
-</div>
-
-<hr/>
+During the spring semester of 2020, students in *SPAN/LITRS 058: Human Monsters. Representations of the Limits of Humanity in the Early Modern Period* (Professor Eli Cohen) examined the ways in which authors, artists, politicians and philosophers had imagined the limits between the human and the monstrous over time. Ranging from classical mythology and the medieval worldview to Renaissance drama and the chronicles of the discovery of the New World, they considered the physical, psychological and cultural boundaries of the human and the monstrous, as well as explored the ways in which these identities shifted across time and space and have had a continuing impact on the way we think of otherness today. For their final project, each student created and curated a digital exhibit of human monstrosity, identifying a topic or theme related to human monstrosity in any form and designing a virtual gallery in which to display and discuss the nature and significance of their monstrous subjects. 

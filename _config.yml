@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: "Latinx Literature and Culture"
-description: Cultural imagination in Latinx communities.
+title: "Human Monsters"
+description: Representations of the Limits of Humanity in the Early Modern Period.
 logo: # 120x120 px default image used for Twitter summary card
 teaser: tv.jpg # 400x250 px default teaser image used in image archive grid
 locale: en
-url: http://ds.swarthmore.edu/latinx-lit
-# url: 
+baseurl: "/human-monsters"
+url: http://ds.swarthmore.edu/human-monsters 
 feed:
   path: atom.xml
 
