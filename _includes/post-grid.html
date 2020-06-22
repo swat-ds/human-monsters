@@ -2,14 +2,14 @@
 
 <!-- fallback background image -->
     {% if member.image_teaser %}
-        {% assign background = member.image_teaser %}
+        <a href="http://scalar.usc.edu/works/{{ member.scalar }}" title="{{ member.title }}" class="post-teaser"
+            style="background-image: url({{ "images" | relative.url }}/{{ site.teaser }});">
     {% else %}
-        {% assign background = site.teaser %}
+        <a href="http://scalar.usc.edu/works/{{ member.scalar }}" title="{{ member.title }}" class="post-teaser"
+          style="background: radial-gradient(circle, rgba(21,5,33,1) 100%, rgba(235,17,17,1) 100%, rgba(0,0,0,1)
+          100%);">
     {% endif %}
     
-    <a href="http://scalar.usc.edu/works/{{ member.scalar }}" title="{{ member.title }}" class="post-teaser"
-      style="background-image: url({{ "images" | relative.url }}/{{ background }});">
-
     {% if member.title %}
     <h2 class="post-title" itemprop="name">{{ member.title }}</h2>
     {% endif %}

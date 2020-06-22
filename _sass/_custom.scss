@@ -74,7 +74,7 @@ p, strong {
 
 a.site-title {
   color: #fff;
-  text-shadow: -10px 5px 5px black;
+  text-shadow: -10px 5px 5px rgba(21, 5, 33, 1);
   height: 240px;
   font-size: 59px;
   line-height:67px;
@@ -106,12 +106,13 @@ nav.menu.top-menu {
 .top-menu .menu-item {
   li {
     a {
-      @include font-size(23,no,1);
-      color: $white;
+      @include font-size(26,no,1);
+      color: #fff;
+      #color: rgba(75, 37, 99, 1);
       padding-right:10px;
       padding-left:10px;
-      background-color: #fdd561;
-      box-shadow: -10px 5px 5px black;
+      #background-color: #fff;
+      box-shadow: -10px 5px 5px rgba(21, 5, 33, 1);
       }
     }
   }
@@ -246,7 +247,7 @@ article.tile {
   background-size: cover;
   text-align: center;
   text-decoration: none;
-  color: rgba($warning-color,.95);
+  color: #fff;
   z-index: 1;
 
   h2 {
