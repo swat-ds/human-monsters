@@ -5,7 +5,6 @@ title: home
 image:
     banner: images/banner.jpg
 ---
-
 <div class="tiles">
 {% for member in site.data.members %}
    {% if member.year == 2020 %}
