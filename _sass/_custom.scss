@@ -254,7 +254,11 @@ article.tile {
   background-size: cover;
   text-align: center;
   text-decoration: none;
-  color: #fff;
+  color:#000033;
+  text-shadow: -1px 0 black,
+  0 5px white,
+  1px 0 white,
+  0 -1px white;
   z-index: 1;
 
   h2 {
