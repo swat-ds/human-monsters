@@ -12,4 +12,3 @@ image:
    {% endif %}
 {% endfor %}
 </div>
-<hr/>
