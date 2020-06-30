@@ -135,5 +135,6 @@ Lunr is distributed under the terms of the [MIT License](http://opensource.org/l
   - Slack notification:  Failed
 - 2020-06-30: Travis Test Build 8 (62s)
   - Slack notification:  Failed
-- 2020-06-30: Travis Test Build 10
-  - Slack notification:  
+- 2020-06-30: Travis Test Build
+  - Still trying to see if Slack works, sheesh
+  - Able to see msgs if token is not encrypted
