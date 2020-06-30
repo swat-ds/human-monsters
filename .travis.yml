@@ -1,26 +1,25 @@
 language: ruby
 rvm:
- - 2.6.3
-
+- 2.6.3
 env:
   global:
-    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # JEKYLL_ENV=production
-
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 script:
- - bundle exec jekyll build
-
+- bundle exec jekyll build
 cache: bundler
-
 deploy:
   provider: s3
-  access_key_id: ${S3_ACCESS_KEY_ID}
-  secret_access_key: ${S3_SECRET}
+  access_key_id: "${S3_ACCESS_KEY_ID}"
+  secret_access_key: "${S3_SECRET}"
   skip_cleanup: true
-  bucket: "sc-lib-ds-static"
+  bucket: sc-lib-ds-static
   local_dir: _site
   upload_dir: human-monsters
   detect_encoding: true
-  default_text_charset: 'utf-8'
+  default_text_charset: utf-8
 branches:
-    only:
-        - master
+  only:
+  - master
+notifications:
+  slack:
+    secure: BuPH2e4RmgGOE0eG59zNqF7YoeFa/zrq+Uph25LTQW94yM2sqnwKp0B2OybT4I954nhJ/n9TfK3miz+IFhOZKqdWqFV+SoZwH990b1Px15c+eVAvxHhVlSn2eATUuASJGqIYMAWe3ZOThW+lSU4eZ+xC2Lut4sX75YajyAaTh+Aj4RDngSJrvP38Zqv9jAt96dzpBot1SOHvlaJL+qRlCnxrjWqkriLyXddtaR0CGXxM3yGME+N99eNUmFfZ6GnjnwvPVRyNZ1CvE6Hsj0Ds5ZyiKPdIjZrL20VjiCIMyO8scUVY/SJubKvGFxW4rmjrdFNsSntIUZbN5XEBlCJRqQ9x27QEQ8Xfshgxzzwxe8uADtG2kFL0FWsyz++r1qlgMU7j5qUxe0NFfYkAxEMoTBGzZ5/VifQ/BelSEKXfQKUvVXF3fys32mv5xvPAu2hbattRINrNt4QCGytzkm9FOgWWBnN/UJhC6IhDMhjVJ1KBxbOoQpYKvtkqqtVDWX7U7Yw0NvIH6sBz5Tv/3a3nhtEWFM6wjDAh01mcYmRxJISQ9I7CFKDvSVE37utpNqQTZMbyCwOovm1PZXgXRRAyGiporpksc3lrY83vNgbG4F+84oxezZZM6koVYRxss0oh5QY8NWcu7Aisjcb7hYh3HyTSvUrBYYaXlTAF//z8reA=

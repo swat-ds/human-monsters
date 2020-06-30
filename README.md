@@ -120,4 +120,6 @@ Copyright (c) 2018 Oliver Nightingale.
 Lunr is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
 - 2020-06-29: Travis Test Build  (53s)
-- 2020-06-29: Travis Test Build 2 
+- 2020-06-29: Travis Test Build 2 (50s)
+- 2020-06-30: Travis Test Build 3 
+  - Slack notification
