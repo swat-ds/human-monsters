@@ -131,5 +131,7 @@ Lunr is distributed under the terms of the [MIT License](http://opensource.org/l
   - Slack notification:  Failed
 - 2020-06-30: Travis Test Build 6 (55s)
   - Slack notification:  Failed
-- 2020-06-30: Travis Test Build 7
+- 2020-06-30: Travis Test Build 7 (52s)
+  - Slack notification:  Failed
+- 2020-06-30: Travis Test Build 8
   - Slack notification:  
