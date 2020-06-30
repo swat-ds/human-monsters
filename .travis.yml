@@ -19,9 +19,8 @@ deploy:
   default_text_charset: utf-8
 branches:
   only:
-  - master
+    - master
 notifications:
-  slack:
-    secure: lEuVKgQwWxsHB50P7bHTSTFQ81y4Omzf7heA5brG9CyI2AobAOCUJw4LS9Je5lrZ+hEb6bM7xo+YCiKJHwapvhkgTftxikcqVEcrcpqrcQfhkq4DnGCO56xdr7m5DyJgW102UGqIdAqr9voIhNWOH1LYSxxSAuk6G9htOC1wvmTc+0Hi86JP0Vw8NyVGWZ4EQiTbww8g7+Xv4JDGRQodPLZ5dXRLyIVt37XHc0/mIlPU9cYzMsrqPVdah+bEuYbzabLHBcAUhitSkZiPTg7puoKhGBc0TXXIq1NY2SLbTY5sr3SGjunAA4aJHqCjAywHnkPPkRfTdNrrIRK+iZBAr36mke56EQdzxl/hBJNmvWU83zsSarG+b7PgB/aJr13uFuEvhCb2Uk5fzY1OZjUtqmojwoGKgkIzJ+Rlqfbib0GXDCTfrtSCxwwtgLIXRWFVYCPSIAa3tR6NgGEyBD8UbvIhRsKAdSCvsKfbrND+lXrYULiQTPR4bgpJ+cHsVTmDrCtne8CIbE1j0kvkTLYwoPSt36hEHtUN0y/HBSKt5iDdQnaoKXWSy7JQ9IRfcK2zgTocrXvjchOxgB3YmA5FsAcJYfUvP87TD9db5aTf787D7+wlHNgxzWC86e6zPaE3xjazj1C2H6LlL3I5RWb9MUjDDTAWICTMPWJq4KAHZvc=
+  slack: swat-libraries:qKAsyRH3oqibFKUPaCFJsa1j
   email:
-  - digitalscholarship@swarthmore.edu
+    - digitalscholarship@swarthmore.edu
