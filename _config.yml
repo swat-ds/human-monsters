@@ -6,7 +6,7 @@ logo: # 120x120 px default image used for Twitter summary card
 teaser: monsters.jpg # 400x250 px default teaser image used in image archive grid
 locale: en
 baseurl: "/human-monsters"
-url: http://ds.swarthmore.edu/human-monsters 
+url: http://ds-pages.swarthmore.edu/human-monsters 
 feed:
   path: atom.xml
 
