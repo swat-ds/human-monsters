@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /about/
+permalink: human-monsters/about/
 title: About
 image:
     banner: ../images/torres-el-pez.jpg

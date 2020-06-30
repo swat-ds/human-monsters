@@ -4,10 +4,10 @@
     {% if member.image_teaser %}
         {% assign background = member.image_teaser %}
     {% else %}
-    {% assign background = post.image_teaser %}
+        {% assign background = post.image_teaser %}
     {% endif %}
     
-    <a href="{{ post.url | relative_url }}" title="{{ post.title }}" class="post-teaser"
+    <a href="http://scalar.usc.edu/works/{{ member.scalar }}" title="{{ post.title }}" class="post-teaser"
         style="background-image: url({{ "images" | relative.url }}/{{ background }});">
     
     {% if member.title %}
