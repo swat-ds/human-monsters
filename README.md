@@ -118,25 +118,3 @@ Pure Liquid Jekyll Table of Contents is distributed under the terms of the [MIT 
 Minimal Mistakes incorporates [Lunr](http://lunrjs.com),
 Copyright (c) 2018 Oliver Nightingale.
 Lunr is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
-- 2020-06-29: Travis Test Build  (53s)
-- 2020-06-29: Travis Test Build 2 (50s)
-- 2020-06-30: Travis Test Build 3 (54s)
-  - Slack notification: Failed
-- 2020-06-30: Travis Test Build 3 (55s)
-  - Slack notification:  Failed
-- 2020-06-30: Travis Test Build 4 (49s)
-  - Slack notification:  Failed
-- 2020-06-30: Travis Test Build 5 (51s)
-  - Slack notification:  Failed
-- 2020-06-30: Travis Test Build 6 (55s)
-  - Slack notification:  Failed
-- 2020-06-30: Travis Test Build 7 (52s)
-  - Slack notification:  Failed
-- 2020-06-30: Travis Test Build 8 (62s)
-  - Slack notification:  Failed
-- 2020-06-30: Travis Test Build
-  - Still trying to see if Slack works, sheesh
-  - Able to see msgs if token is not encrypted
-- 2020-06-30: Travis Test Build
-  - Now Slack is working but build is failing for some reason
