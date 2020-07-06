@@ -13,7 +13,11 @@
     {% if member.title %}
     <h2 class="post-title" itemprop="name">{{ member.title }}</h2>
     {% endif %}
+    {% if member.name %}
+    <p>{{ member.name}}</p>
+    {% endif %}
     </a>
+   
 
 <!-- hide unneeded metadata -->
 
