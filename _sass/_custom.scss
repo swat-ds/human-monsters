@@ -279,10 +279,11 @@ article.tile {
 
   h2 {
     margin: 0;
-    padding: 1em .5em;
+    padding: .5em .5em;
     line-height: 1;
-    font-size: 40px;
-    //background-color: rgba(0,0,0,.6);
+    font-size: 35px;
+    background-color: rgba(0,0,0,.5);
+    height: 100%;
   }
 
   &:hover h2.post-title{
