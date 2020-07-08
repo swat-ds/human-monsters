@@ -3,7 +3,7 @@ layout: archive
 permalink: /about/
 title: About
 image:
-    banner: images/banner.jpg
+    banner: ../images/banner.jpg
 ---
 
 
