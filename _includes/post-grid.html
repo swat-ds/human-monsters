@@ -11,10 +11,9 @@
         style="background-image: url({{ "images" | relative.url }}/{{ background }});">
     
     {% if member.title %}
-    <h2 class="post-title" itemprop="name">{{ member.title }} <hr> by {{ member.name }}</h2>
-    {% endif %}
-    {% if member.name %}
-    <p>{{ member.name}}</p>
+    <h2 class="post-title" itemprop="name">{{ member.title }} 
+        <p>{{ member.name }}</p>
+    </h2>
     {% endif %}
     </a>
    

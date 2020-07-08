@@ -84,8 +84,10 @@ a.site-title {
 p.site-description {
   color: black;
   float: left;
-  padding-top: 10px;
-  letter-spacing: 2px;
+  padding-top: .2em;
+  padding-left: .5em;
+  padding-right: .5em;
+  letter-spacing: 3px;
   background-color: white;
 }
 
@@ -126,8 +128,10 @@ nav.menu.top-menu {
     a {
       @include font-size(26,no,1);
       color: red;
-      padding-right:10px;
-      padding-left:10px;
+      padding-right:.2em;
+      padding-left: .2em;
+      padding-bottom: .2em;
+      padding-top: .4em;
       background-color: white;
           &:hover {
             &:after {
@@ -143,7 +147,7 @@ nav.menu.top-menu {
 @media (max-width:1279px){
   .top-menu .menu-item {
     li {
-      margin-top: 15px;
+      margin-top: 19px;
       a {
         background-color: white;
         font-size: 90%;
@@ -277,11 +281,16 @@ article.tile {
   color:white;
   z-index: 1;
 
+  p {
+     font-size: 20px;
+     padding-top: 20px;
+   }
+
   h2 {
     margin: 0;
     padding: .5em .5em;
     line-height: 1;
-    font-size: 35px;
+    font-size: 30px;
     background-color: rgba(0,0,0,.5);
     height: 100%;
   }
