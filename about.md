@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: human-monsters/about/
+permalink: /about/
 title: About
 image:
     banner: images/banner.jpg
