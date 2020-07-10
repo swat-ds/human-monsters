@@ -6,6 +6,7 @@
 .page-lead {
   background: url("../images/banner.jpg");
   opacity: 50%;
+  
 }
 
 
@@ -74,10 +75,11 @@ p, strong {
 
 a.site-title {
   color: red;
-  text-shadow: -10px 5px 4px black;
+  //text-shadow: -10px 5px 4px black;
   height: 130px;
+  font-weight: 900;
   font-size: 80px;
-  line-height:60px;
+  line-height:65px;
   padding-right: 50px;
 }
 
